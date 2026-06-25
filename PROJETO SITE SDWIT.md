@@ -2,7 +2,7 @@
 
 ## OBJETIVO
 
-Desenvolver um site institucional corporativo para a SDWIT.
+Desenvolver um site corporativo para a SDWIT.
 
 A SDWIT é uma consultoria especializada em Tecnologia, Segurança da Informação e Transformação Digital.
 
@@ -18,8 +18,6 @@ O site deve transmitir:
 * Modernidade
 
 O visual deve ser corporativo e premium.
-
-Não deve parecer uma revenda de software.
 
 ---
 
@@ -400,6 +398,8 @@ SEO otimizado.
 HTML5 semântico.
 
 CSS moderno.
+
+Framework next.js
 
 Performance otimizada.
 
