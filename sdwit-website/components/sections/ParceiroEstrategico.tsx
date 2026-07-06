@@ -19,7 +19,7 @@ export default function ParceiroEstrategico() {
 
                 <div className="rounded-2xl p-6 md:p-8 bg-white border border-slate-100 shadow-sm mx-auto max-w-lg text-center">
                     {/* ScaleUp Logo Placeholder */}
-                    <div className="mx-auto mb-6 flex h-20 w-48 items-center justify-center rounded-lg bg-slate-100">
+                    <div className="mx-auto mb-6 flex h-20 w-48 items-center justify-center">
                         <Image
                             src={scaleupLogo}
                             alt={"Logo ScaleUp IT"}

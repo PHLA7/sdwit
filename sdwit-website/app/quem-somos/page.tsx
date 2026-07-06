@@ -91,9 +91,8 @@ export default function QuemSomos() {
                     </p>
                     <p className="leading-relaxed text-slate-600">
                         A partir desse entendimento, recomendamos estratégias,
-                        arquiteturas e soluções (próprias ou em parceria com
-                        fabricantes líderes de mercado) sempre alinhadas às
-                        necessidades reais do negócio.
+                        arquiteturas e soluções sempre alinhadas às necessidades
+                        reais do negócio.
                     </p>
                 </div>
             </section>
