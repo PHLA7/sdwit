@@ -46,28 +46,6 @@ export default function Contato() {
                                     +55 11 98146-0800
                                 </a>
                             </li>
-                            <li>
-                                <h3 className="mb-1 text-sm font-semibold uppercase tracking-wider text-slate-400">
-                                    LinkedIn
-                                </h3>
-                                <a
-                                    href="https://www.linkedin.com/in/gustavo-abreu-8a700726/"
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                    className="text-lg text-secondary hover:text-accent transition-colors"
-                                >
-                                    Gustavo Abreu
-                                </a>
-                                <br />
-                                <a
-                                    href="https://www.linkedin.com/in/phla7/"
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                    className="text-lg text-secondary hover:text-accent transition-colors"
-                                >
-                                    Pedro Abreu
-                                </a>
-                            </li>
                         </ul>
 
                         <p className="mt-8 rounded-lg bg-[#F8FAFC] p-4 text-sm text-slate-600">

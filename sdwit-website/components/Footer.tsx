@@ -4,7 +4,6 @@ const footerLinks = [
     { href: "/", label: "Home" },
     { href: "/quem-somos", label: "Quem Somos" },
     { href: "/solucoes", label: "Soluções" },
-    { href: "/parceiros", label: "Parceiros" },
     { href: "/contato", label: "Contato" },
 ];
 
@@ -67,16 +66,6 @@ export default function Footer() {
                                     className="transition-colors hover:text-accent"
                                 >
                                     +55 11 98146-0800
-                                </a>
-                            </li>
-                            <li>
-                                <a
-                                    href="https://www.linkedin.com/in/gustavo-abreu-8a700726/"
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                    className="transition-colors hover:text-accent"
-                                >
-                                    LinkedIn
                                 </a>
                             </li>
                         </ul>
