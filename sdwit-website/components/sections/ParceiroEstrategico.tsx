@@ -28,9 +28,6 @@ export default function ParceiroEstrategico() {
                             className="object-contain"
                         />
                     </div>
-                    <h3 className="mb-3 text-2xl font-bold text-primary">
-                        ScaleUp IT
-                    </h3>
                     <p className="mb-6 text-sm leading-relaxed text-slate-600">
                         Parceiro estratégico para projetos de Infraestrutura,
                         Cloud, Observabilidade, FinOps e Transformação Digital.
