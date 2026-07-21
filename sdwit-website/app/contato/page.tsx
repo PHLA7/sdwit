@@ -45,6 +45,24 @@ export default function Contato() {
                                 >
                                     +55 11 98146-0800
                                 </a>
+                                <br></br>
+                                <a
+                                    href="tel:+5511954170055"
+                                    className="text-lg text-secondary hover:text-accent transition-colors"
+                                >
+                                    +55 11 95417-0055
+                                </a>
+                            </li>
+                            <li>
+                                <h3 className="mb-1 text-sm font-semibold uppercase tracking-wider text-slate-400">
+                                    LinkedIn
+                                </h3>
+                                <a
+                                    href="https://linkedin.com/company/sdwit"
+                                    className="text-lg text-secondary hover:text-accent transition-colors"
+                                >
+                                    SDW IT Consultoria e Representação
+                                </a>
                             </li>
                         </ul>
 
